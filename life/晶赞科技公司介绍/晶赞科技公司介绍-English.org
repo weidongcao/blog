@@ -1,0 +1,29 @@
+* Introduction Of Zamplus
+** Self-introduction
+   Hello, everyone. My name is cao weidong. I am a bigdata development engineer in zamplus.
+   Three months ago, I was very honored to join the DMP team of zamplus, and now I am working on 151 government project in MeiXin Mansion.
+   Today I have to introduce zamplus. Eight years has passed Since Zamplus was  founded by Qifent Tang(our company's Chief Executive Officer) in 2011. 8 years of ups and downs, the story about zamplus is enormous. I have to only choose only two fragment of brief to introduction the story of zamplus :The Summary and Development History
+** About Zamplus
+*** Summary
+    Zamplus Technology is a professional bigdata application technology enterprise.
+    We have Integrated Big Data Technical architecture, big data processing capabilities, big data analysis capabilities, bigdata application capabilities.
+    Our mission is "Data Creates New Value"
+
+    I still remember the first time we went to see our company's Big Data Trading Center, I Was Really shock By the tremendous size of data displaied in the screen. After turn back to zamplus, I did some calculations, if one hard sidk is 10TB, it requires 200 containers to fit. In addition one type of data is far more than 1ZB 
+*** Development History
+    zamplus technology was founded in June 2011.
+    in March 2013 we obtained series A financing 
+    in June 2014 we obtain series B round of financing was obtained 
+    C financing was obtained in December 2014
+    In August 2017, zamplus was selected "2017 China Top 50 Big Data Company"
+    Among them:
+    Zampda has been put into commercial market officially in January 2013
+    In March 2014, DMP project was officially put into commercial
+    In June 2015, Zampdmp has been put into commercial officially
+    In April 2016, Shanghai Data Exchange Corp was established
+    In July 2017, Zampdmp was selected as the 2016 typical show case of big data in Shanghai.
+    Zamplus has the host mature and advanced big data research &development team.
+    our team member are professionals in the field of Internet and big data, who came from Google, Alibaba and Baidu Inc...
+    There're more than 200 employees , currently 15% of them are PHD, and 80% are masters
+    Since founded in 2011, eight years has pasted, To come from nothing, our company Expand from small to big, from weak to Strong, 8 years of hard time, zamplus has growing into the little giant of science and technology of Shanghai. I believe zamplus will become better and better.
+    
