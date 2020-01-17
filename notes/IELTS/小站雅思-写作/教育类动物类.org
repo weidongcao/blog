@@ -1,0 +1,67 @@
+** 教育类话题
+
+*** 常考内容
+ - 线上教育
+ - 学校教育 VS 家庭教育
+ - 实用科目 or 理论科目
+ - 高中毕业是否要间隔一年上大学
+ - 教育与就业
+**** 相关短语
+  | 中文               | 英文                                        |
+  |--------------------+---------------------------------------------|
+  | 家庭教育           | parenting                                   |
+  | 远程教育           | online education / distance education       |
+  | 学校教育           | schooling / formal education                |
+  | 学术课程           | academic curriculum(s)                      |
+  | 德育               | moral education                             |
+  | 道德准则           | standard of morality                        |
+  | 全面发展           | comprehensive / all-around development      |
+  | 补充               | complement                                  |
+  | 各种途径来获取知识 | acquire knowledge from different approaches |
+  | 知识的良好掌握     | good command of knowledge                   |
+  | 开阔眼界           | broaden the horizon                         |
+
+*** 线上教育的优点
+    1. 灵活自由(flexible and free):
+       1. 克服地域障碍(overcome geographical limitation)
+       2. 任何时间任何地址(anytime and anywhere)
+    2. 减轻经济负担(ease the financial burden):
+       1. 成本低,经济(low cost and economical)
+       2. 只需要有网络就可以实现(be done through network)
+    3. 效率高(high efficiency)
+       1. 节省大量路上时间(save time on commuting)
+
+*** 在学校住的好处
+    1. 更安全(safer)
+       1. 学校有良好,完善的安保系统(perfect security system), 比如:闭路电视(CCTV),保安(security)等
+    2. 有利于建立友谊(be beneficial to build up friendship)
+       1. 宿舍中都是同学,大家有更多机会相识(more opportunities to meet each other),并且相互沟通和交流
+    3. 提高学习和生活效率(improve the efficiency of study and life)
+       1. 宿舍通常在校园里,学生更容易使用学校各种资源(easily access to school resources);
+       2. 可以省中止的时间,更方便
+**** 相关短语
+     | 中文           | 英文                       |
+     |----------------+----------------------------|
+     | 培养社交能力   | develop social ability     |
+     | 融入社会       | integrate into the society |
+     | 学习氛围       | learning atmosphere        |
+     | 与...合作      | cooperate with             |
+     | 团队精神       | team spirit                |
+     | 人际关系的能力 | interpersonal skill        |
+     | 独立思考的能力 | independent thinking       |
+*** 实用科目 or 理论科目
+    1. (大学)学校应该教授对工作实用的课程(practical subjects, such as computer science, management)
+       1. 掌握实用的学科和技能(practical subjects and skills)
+       2. 可以帮助学生求职(improve career)
+    2. (大学)学校应该注重理论学科(theoretical knowledge)
+       1. 学好理论学科可以为实用性的学科和技能打下扎实的基础(a strong background in certain academic subjects can lay solid foundations for practical subjects and skills)
+    3. (大学)一些大学里的专业需要更深的学术研究,比如(philosopher,需要理论性知识更多的专业(major)
+**** 相关短语
+     | 中文           | 英文                       |
+     |----------------+----------------------------|
+     | 通才教育       | a well-rounded education   |
+     | 产生厌倦的情绪 | be fed up with             |
+     | 书呆子         | book worms                 |
+     | 想象力与创造力 | imagination and creativity |
+     | 社会经验       | social experience          |
+*** 
