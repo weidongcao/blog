@@ -1,0 +1,210 @@
+** 科技类话题
+   科技类题目主要现代科技对人们生活习惯和生活方式产生的影响
+
+   现代科技主要包括:
+   互联网,电脑,手机等各种小电器
+   以及汽车和飞机等现代交通工具
+*** 相关短语
+    | 科技进步        | scientific and technological advance |
+    | 科技创新        | technological innovation             |
+    | 科技发明        | technological invention              |
+    | 突破            | breakthrough                         |
+    | 数字的,数码的   | digital                              |
+    | 尖端,前沿的技术 | cutting-edge technology              |
+    | 信息时代        | the information age/era              |
+*** 常考内容
+    1. 科技对人类的发展影响
+    2. 手机对年轻人和老年人以及社会的影响
+    3. 科技的发展给工作和学习带来的优点和缺点
+    4. 机器取代很多工作对人和社会的影响
+    5. 飞机等交通工具的发展给环境带来的影响
+    6. 科技产品对人们现在生活的影响
+    7. 机器从等未来科技问题(近些年的外星人的问题)
+*** 科技发展的下辈影响
+    1. 提升工作效率(improve work efficiency),节省时间(time-saving)
+       生产速度加快,效率更高,人们可以在理智时间内完成工作
+    2. 用网络替代传统的做事方法可以节省精力(online-shopping)
+    3. 保护环境
+       如:无纸化办公(paperless offices)能减少碳排放(emissions)
+    4. 便于沟通
+       通过网络可以联系家人,扩大朋友圈
+    5. 便于获得信息
+       通过网络,人们获得信息的渠道更多
+**** 相关短语
+     | 中文             | 英文                                |
+     |------------------+-------------------------------------|
+     | 社交网站         | social networking websites          |
+     | 促进交流         | promote communication               |
+     | 获取更多的信息   | obtaion information in various ways |
+     | 鼠标一点         | with the clici of a mouse           |
+     | 地理上的阻碍     | geographical barrier                |
+     | 生产力,生产率    | productivity                        |
+     | 取代人力的机器   | laber-replacing machinery           |
+     | 远程通讯 ,电信学 | telecommunications                  |
+*** 科技屜的负面影响
+    1. 影响健康
+       长期使用高科技产品(如看电视),会影响人的健康
+    2. 回升工作时间
+       因为通讯发达,人们在下班后也能被同事和上司联系上,在家里查阅工作邮件
+    3. 减少情形家人朋友的交流,性格变得孤僻
+       人们沉迷(be addicted to)网络,不愿意出门,导致与外界联系减少
+    4. 安全问题(security issues)
+       网络存在信息不安全,使用电子产品也可能引发一些安全事故(电池爆炸,个人信息泄露provicy)
+    5. 导致污染
+       科技增加了人们对各种消费品(consumer goods)的需求
+**** 相关短语
+     | 中文                  | 英文                                             |
+     |-----------------------+--------------------------------------------------|
+     | 工作压力的增加        | increasing work pressure                         |
+     | 网络犯罪              | cyber crime                                      |
+     | 侵犯某人的隐私        | violate sb' privacy                              |
+     | 对人的健康造成危害    | damage one's health                              |
+     | 近视                  | near-sighted                                     |
+     | 辐射                  | radiation                                        |
+     | 户外活动减少          | less outdoor exercise                            |
+     | 削弱与家人,朋友的关系 | weaken the relationships with family and friends |
+**** 其他
+     Technology/science and technology / cutting-edge technology /technological innovation/
+     *活动/设备*
+     massive television coverage,
+     spaceship,hitech devices
+     mobile phone, internet, computer, space exploration, e-learning,
+     e-finance, Fintech, ralway, mobile games...
+
+     *时mao词汇*
+     artificial intelligence, 低头族phubbing, 手机应用程序mobile application, 二维码QR code,
+     自拍selfie, 网络霸凌cyber bullying, 网约车car-hailing platform, TV addict
+
+     *现象*
+     低头族phubbing, 加速accelerate/ speed up 生活节奏the pace of life, 社交恐惧症social phobia antisocial
+*** 手机所带来的问题和负面影响
+     - 社会问题
+       在公共场所讲话声音大(speak at an increased volume), 让人感觉不舒服(feel uncomfortable);
+     - 技术问题
+       信息可能会被第三方截取(intercept),隐私不安全(infringe one's privacy)
+     - 医疗问题
+       有可能增加患症的机率(increase the risk of suffering cancers)
+     - 安全问题
+       开车时打电话(talk on the phone while driving),导致交通事故的发生(correlation with road traffic accidents)
+*** 手机所带来的好处和正面影响
+     - 丰富生活(enrich people's life)
+       除了发信息(send text message)和语音留言(make voice calls)之外,手机还可以用来浏览网页(Internet browing),
+       听音乐(music playback)管理个人信息(personal organisers),收发电子邮件(e-mail),
+       拍照(built-in cameras),手游(mobile games)等,由此丰富了人们的生活;
+     - 方便沟通(communication tool)
+       手机使人们可以克服地域的障碍(overcome geographical barrier);在有突发事件的时候(in the event of an emergency)
+     - 手机有定位功能(navigation)
+       可以通过信号来确定人的位置(locate trapped or injured people using the signals from their mobile phones)
+*** 考官出题思路
+    090808 the development of technology changes the way people connect with wach other.
+    In which way does the development of technology change the types of relationships among people?
+    Does it have positive or negative effects on the relationship?
+
+    161126 nowadays more and more people are using cellphones and computers to communicate,
+    so they are losing the ability to communicate with each other face to face.
+
+    170218 some people think the technology makes life complex , so we shold make life
+    simpler without using the technology.
+**** 同义替换
+     device = equipment = appliance = instrument 设备,设置
+     rife = widespread = prevalent: 普遍的
+     致命的,有伤身体的:fatal = deadly = lifedamaging
+     使用汽车的人: motorist = driver = car user
+     碰撞,车祸:collision = crash = accident
+     干扰,打扰: disturbance = annoyance = interruption
+     不可逆转的,永远的: irreversible = permanent = unalterable
+**** 范文
+     The internet has brought benefits in terms of access to knowledge and communication.
+     With regard to the former, people who have an internet connection can now educate themselves o
+     virtually any subject that takes their interest. For example, anyone who is interested in
+     learning English can do so for tree by using the many free teaching sites as well as being
+     able to watch films and other videos on Youtube. The other major contribution that the internet
+     has made is to revolutionise our ability to communicate.
+
+     More specifically, it has enabled people to keep in touch with friends and to make contact with
+     similar minded people throughout the world. This means that one can establish networks of.
+     for example people suffering from the same disease, or of people with shared interests, like
+     obscure periods of history.
+
+     On the other hand, these benefits do have a potential cost with regard to loss of privacy.
+     This is because everything that internet users do is recorded by companies like Google and Facebook,
+     and there is not much that the typical users can do to prevent it. 
+     For example, internet users should bear in mind that all of their ativities than their families do.
+     As far as Facebook is concerned, its usersseem happy to reveal the identities of their friends and families,
+     as well as their daily activities, even though this private information is stored fefinitely.
+     If it fell into the wrong hands, it could represent a real threat to people's freedom and privacy.
+
+     I believe that the use of the internet is highly risky, because it may cause the loss of users' privacy,
+     which may pose serious threats to their safety and security. Although many people appreciate the improvements
+     in their life brought by using the internet, the price would be too high to afford if they paid no attention
+     to the risk.
+** 全球化话题
+   - 国际援助
+   - 国际合作
+   - 国际旅游
+   - TOOD
+*** 全球化的起因
+    1. 经济因素
+       各个国家希望通过贸易(trade),扩大市场(expand market),将自己的产品销往其他国家
+    2. 技术及文化因素
+       通过互联网和出国旅游(travel abroad),人们有了更多机会了解外国的文化,同时国家之间文化的交流也 促进
+    3. 政治因素
+       随着国家之间的接触增多,国家之间有必要签署一些协议(treaty),来保证公平性
+**** 相关短语
+     | 中文                 | 英文                                            |
+     |----------------------+-------------------------------------------------|
+     | 全球化进程           | the rpocess of globalization                    |
+     | 地球村               | the global village                              |
+     | 文化全球化           | Cultural globalization                          |
+     | 经济全球化           | Economic globalization                          |
+     | 经济效益             | economic benefits                               |
+     | 文化特性             | cultural identity                               |
+     | 文化交流             | cultural exchange                               |
+     | 开阔眼界             | enrich one's outlook                            |
+     | 科学和技术的快速发展 | the rapid development of science and technology |
+     | 冲突                 | conflict                                        |
+     | 国内企业             | domestic enterprise                             |
+     | 贸易壁垒             | trade barrier                                   |
+     | 少数民族             | ethnic minorities                               |
+     | 小语种               | minority       language                         |
+     | 生活习惯             | living habit                                    |
+     | 购买习惯             | buying / purchasing habit                       |
+     | 环境恶化             | environmental degradation                      |
+*** 国际援助的意义
+     - 出于人道主义(humanitarianism),全世界共同发展(seek the common development)
+     - 让一些国家可以融入全经济(involvement in the global economy),促进和平稳定(peace and stability)
+     - 出于经济利益的考虑,政治和外交方面的考虑等等(donate money for economical, political or diplomatic reasons)
+*** 国际援助的弊端
+     - 一些默写会更依靠援助(more dependent on aid than ever),
+       会有损其自信(erode self-confidence),创造力(creativity)和国民的尊严(pride and dignity)
+     - 富裕国家只是用一种掩盖的手段来掠夺廉价的自然资源从而从贫困国家中受益
+       (aid from rich countries is just a disguised way to exploit cheap natural resources and get
+       great benefits from poverty-stricken countries).
+     - 由于存在着腐败的官员和无能的管理,存在着滥用援助物资的潜在危险
+       There exists a potential danger of the abuse of the beneficence by some corrupt governmental
+       officials and inefficient administration)
+**** 相关短语
+     | 中文         | 英文                                |
+     |--------------+-------------------------------------|
+     | 援助物资     | beneficence / donation              |
+     | 受助国家     | recipient countries                 |
+     | 解除困苦     | relieve the sufferings              |
+     | 缩小贫富差距 | bridge the gap of the rich and poor |
+     | 和平和稳定   | peace and security                  |
+     | 全球文明     | global civilization                |
+**** 辩论
+     环境问题的影响
+     Environmental problems are so big that
+
+     *Agree*
+     1. 环境问题的影响是世界范围的(on a global scale)
+        我们拥有同一个生态圈(ecosystem),每个国家都是相互关联的(interrelated)
+        Example:邻国倾泻(dump)的污水(sewage)污染
+     2. 有些国家没有足够的资源(包括资金和技术)去减少污染
+        需要通过和发达国家合作(cooperation),引进技术和经验,
+        从而能够不断执行环保(environmentally friendly)政策polacy
+     *Disagree*
+     1.尽管国际合作很重要,国家一点要主动做一些改变
+     每个国家所面对的环境问题各有不同
+     国家需要执行一些环境法律(regulation),提高公民意识(awareness),
+     才能很好地修复(restore)环境
