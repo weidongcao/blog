@@ -1,0 +1,185 @@
+** 政府政策话题
+    - 政府投资教育
+    - 政府投资医疗
+    - 政府投资文化
+    - 政府投资基础设施建设
+   
+    *What governments can do*
+    - public service: helthcare & education
+    - inpose taxes
+    - Defense(国防):control armed forces and police forces
+    - raise people's awareness of issues of issues(e.g. climate change)
+    - support people who are living in poverty or unable to work
+    - provide resources for schools
+    - 保证法律和公共秩序:enforcement of law and public service
+    - enact relevant legislations
+    - mechanism of supervision(监督)
+      
+*** 政府解决公共交通问题的办法
+    - 采取环保政策(adopt environmentally friendly policy)
+      合理利用自然资源(utilize the natural resources properly)
+      #+DOWNLOADED: file:///home/wedo/img/record-government-33.png @ 2020-01-23 22:07:42
+      [[file:img/2020-01-23_22-07-42_record-government-33.png]]
+
+*** 政府投资教育
+    1. 提高文化普及率
+    2. 减轻家庭经济负担
+       学费比较昂贵,并不是所有人可以承担得起 hard to afforted to tuition fees
+       尤其是那些不富裕的家庭impoverished family
+    3. 摆脱贫困
+       有能力去改变自己change themselves from inside
+       知识改变命运knowlege can change one's destiny
+ #+DOWNLOADED: file:///home/wedo/img/record-government-invest_education.png @ 2020-01-23 22:05:53
+ [[file:img/2020-01-23_22-05-53_record-government-invest_education.png]]
+**** 相关短语
+     | 义务教育           | compulsory education   |
+     | 未受教育的人口     | illiterate population  |
+     | 使用               | have access to         |
+     | 避免不必要的开支   | on a budget            |
+     | 政府提供资金的项目 | a state-funded program |
+     | 可利用的           | available              |
+**** 预防疾病重要还是治疗疾病重要
+     *Detail*
+     TODO
+     *Agree*
+     TODO
+     *Disagree*
+     TODO
+     1. 政府最快赢得人心的方式是完善医疗体制
+     2. 享受医疗是人们的基本权利basic right for citizens
+        大力发展公共医疗
+        有助于疾病预防和医疗改善
+        从而提高国民待遇
+
+     3. 人们需要减轻经济压力(wase the economic burden of family)
+        在很多国家,医疗费用非常昂贵,很多人因为付不起昂贵的医疗费用(expensive medical care)
+        而丧失了生命lose their lives
+
+#+DOWNLOADED: file:///home/wedo/img/record-government-disagree.png @ 2020-01-23 22:07:22
+[[file:img/2020-01-23_22-07-22_record-government-disagree.png]]
+
+**** 相关短语
+
+#+DOWNLOADED: file:///home/wedo/img/record-government-related_phrases.png @ 2020-01-23 22:03:05
+[[file:img/2020-01-23_22-03-05_record-government-related_phrases.png]]
+
+**** 范文
+
+#+DOWNLOADED: screenshot @ 2020-01-24 11:30:14
+[[file:img/2020-01-24_11-30-14_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 11:36:25
+[[file:img/2020-01-24_11-36-25_screenshot.png]]
+
+** 环境类话题
+    - *环境问题的类型*
+    - *解决环境问题的方法*
+*** 相关短语
+    #+DOWNLOADED: screenshot @ 2020-01-24 11:43:54
+    [[file:img/2020-01-24_11-43-54_screenshot.png]]
+
+| 可持续发展          | sustainable development |
+| 生态系统            |                         |
+| 生态平衡            |                         |
+| 保护,保存           |                         |
+| 对环境无害的,环保的 |                         |
+| 环境污染                |                         |
+*** 环境问题的类型
+#+DOWNLOADED: screenshot @ 2020-01-24 11:47:15
+[[file:img/2020-01-24_11-47-15_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 11:48:04
+[[file:img/2020-01-24_11-48-04_screenshot.png]]
+
+
+    1. 全球变暖
+    2. 污染物增加
+    3. 淡水资源减少
+       fresh water,
+       影响:干旱增加 drought
+    4. 能源供应不足
+       常见起因:可替代资源(alternative energy)缺乏,人口爆炸(overpopulation)
+    5. 森林减少(deforestation)
+**** 相关短语
+#+DOWNLOADED: screenshot @ 2020-01-24 11:49:22
+[[file:img/2020-01-24_11-49-22_screenshot.png]]
+
+| 用尽(资源)   | use up / exhaust |
+| 开采自然资源 |                  |
+| 风能         |                  |
+| 水力发电     |                  |
+| 太阳能(发电) |                  |
+| 不可再生资源 |                  |
+| 过度工业化   |                  |
+| 短缺         |                  |
+| 自然灾害     |  natural disasters |
+*** 解决环境问题方法
+    1. 全面合作:政府社会,和家庭共同努力,甚至跨国合作
+       involve the international cooperation as well as individuals's effort
+    2. 提高公众的意识
+       如:加强教育和宣传,政府制定奖惩措施
+       policy of reward and punishment
+    3. 政府投资
+       购买设施,采用对环境有利的科技
+       environmentally-friendly technology
+    4. 再利用
+       重复利用reuse
+       循环recycle
+       可再生的renewable
+       可再造reproduce
+    5. 开发能源
+       开发寻找可替代能源:explore alternative energy to replace the fossil fuels
+       explore environmantally-friendly fuel
+    6. 出台法律和政策
+       enact the relevant law / work out the regulation
+    7. 媒体倡导
+       利用媒体,普及环境友好的理念和知识,培养生活中的好习惯
+       popularize the knowledge of environmental protection / cultivate the good habit in life
+**** 相关短语
+#+DOWNLOADED: screenshot @ 2020-01-24 12:04:15
+[[file:img/2020-01-24_12-04-15_screenshot.png]]
+| 污染                   | pollution / contamination |
+| 再利用                 | reuse / recycle           |
+| 增强公众关于...的意识  |                           |
+| 制造商应承担相关的责任 |                           |
+| 环境立法               |                           |
+| 低碳的                 | low-carbon                |
+| 绿色消费习惯           | green consuming habits    |
+**** 题目预测
+     环境问题是个人,国家,企业无法解决的,你觉得应该怎样
+
+     *Agree*
+     1. 国家可以采取环保政策(environmental policy)
+        加强环保合作,
+        分享环保经验
+        对于破坏环境的企业和个人加大处罚力度
+     2. 企业尤其是高度污染的企业
+        应该依赖高科技
+        减少对于环境的污染
+
+#+DOWNLOADED: screenshot @ 2020-01-24 12:10:10
+[[file:img/2020-01-24_12-10-10_screenshot.png]]
+     *Disagree*
+     1. 可以减少对于高科技产品的使用,具体来说,减少家用电器使用的频率
+     2. 个人可以培养环保的意识
+        珍惜自然资源,过简单生活
+        具体而言,可以乘公共交通工具等
+     3. 个人可以参加环保组织
+        做环保志愿者
+        宣传环保,反对有害环境的政策的出台和推广
+     #+DOWNLOADED: screenshot @ 2020-01-24 12:14:34
+     [[file:img/2020-01-24_12-14-34_screenshot.png]]
+**** 范文
+#+DOWNLOADED: screenshot @ 2020-01-24 12:17:08
+[[file:img/2020-01-24_12-17-08_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 12:19:58
+
+[[file:img/2020-01-24_12-19-58_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 12:22:46
+[[file:img/2020-01-24_12-22-46_screenshot.png]]
+
