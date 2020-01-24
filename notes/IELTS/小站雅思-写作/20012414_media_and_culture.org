@@ -1,0 +1,176 @@
+* mediaAndCulture
+** 媒体
+   传统/印刷媒体
+   traditional media/print media
+
+   现代媒体
+   modern media
+*** 相关短语
+#+DOWNLOADED: screenshot @ 2020-01-24 15:42:52
+[[file:mediaAndCulture/2020-01-24_15-42-52_screenshot.png]]
+| 大众传媒 | mass media |
+| 社交媒体 |            |
+| 印刷媒体 |            |
+| 电子媒体 |            |
+| 记者     |            |
+*** 常考内容
+     - 媒体的下面影响
+     - 媒体的负面影响
+     - 广告的作用
+     - 广告的负面影响
+*** 媒体的下面影响
+    1. 提供信息
+       传播信息
+       使人们迅速地获取最新的消息
+       提供了丰富的信息
+       使人信息灵通
+       与时俱进
+    2. 丰富了人们的生活
+       媒体有很强的娱乐性
+       使人们得到放松
+    3. 有教育的功能
+       传播知识
+    4. 揭发社会问题
+       引起重视reveal multiple social problems
+       可以帮助更好的解决atrract more attention
+#+DOWNLOADED: screenshot @ 2020-01-24 15:45:14
+[[file:mediaAndCulture/2020-01-24_15-45-14_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 15:48:44
+[[file:mediaAndCulture/2020-01-24_15-48-44_screenshot.png]]
+**** 相关短语
+#+DOWNLOADED: screenshot @ 2020-01-24 15:50:12
+[[file:mediaAndCulture/2020-01-24_15-50-12_screenshot.png]]
+| 对...有着深远的影响        | have a profound effect on |
+| 揭露社会问题               |                           |
+| 监督和推动政府解决社会问题 |                           |
+| 非常详尽地报道             | report... in detail       |
+*** 媒体的负面影响
+    1. 引发恐慌
+    2. 缺少监管
+    3. 改变社会观念social concept
+    4. 包含不实信息false information
+#+DOWNLOADED: screenshot @ 2020-01-24 15:52:21
+[[file:mediaAndCulture/2020-01-24_15-52-21_screenshot.png]]
+**** 相关短语
+#+DOWNLOADED: screenshot @ 2020-01-24 15:54:58
+[[file:mediaAndCulture/2020-01-24_15-54-58_screenshot.png]]
+*** 广告的作用
+    1. 促进销售,刺激消费
+    2. 架起消费者和生产者之间的桥梁
+    3. 让消费者选择适合自己的产品
+    4. 促进生产者提高自己的竞争力
+**** 相关短语
+     | 商业广告     | commercial |
+     | 公益广告     |            |
+     | 促销         |            |
+     | 市场营销手段 |            |
+     | 目标受众     |            |
+     | 新闻业       |            |
+     | 散布,宣传,传播     |            |
+#+DOWNLOADED: screenshot @ 2020-01-24 15:57:25
+[[file:mediaAndCulture/2020-01-24_15-57-25_screenshot.png]]
+*** 广告的负面影响
+#+DOWNLOADED: screenshot @ 2020-01-24 15:59:22
+[[file:mediaAndCulture/2020-01-24_15-59-22_screenshot.png]]
+*** TV and Children --拓展思路
+#+DOWNLOADED: screenshot @ 2020-01-24 16:01:33
+[[file:mediaAndCulture/2020-01-24_16-01-33_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 16:02:38
+[[file:mediaAndCulture/2020-01-24_16-02-38_screenshot.png]]
+*** 范文
+#+DOWNLOADED: screenshot @ 2020-01-24 16:06:17
+[[file:mediaAndCulture/2020-01-24_16-06-17_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 16:12:35
+[[file:mediaAndCulture/2020-01-24_16-12-35_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 16:16:08
+[[file:mediaAndCulture/2020-01-24_16-16-08_screenshot.png]]
+
+** 文化
+   - 是否应该创造一种的通用语言
+   - 旅游带来的优点
+   - 旅游带来的缺点
+*** 相关短语
+#+DOWNLOADED: screenshot @ 2020-01-24 16:19:15
+[[file:mediaAndCulture/2020-01-24_16-19-15_screenshot.png]]
+| 本地文化     | local culture |
+| 多元文化背景 |               |
+| 融入异国文化 | 包容异国文化  |
+| 地方习俗     |               |
+| 促使         |               |
+
+#+DOWNLOADED: screenshot @ 2020-01-24 16:20:49
+[[file:mediaAndCulture/2020-01-24_16-20-49_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 16:21:14
+[[file:mediaAndCulture/2020-01-24_16-21-14_screenshot.png]]
+**** 相关短语
+#+DOWNLOADED: screenshot @ 2020-01-24 16:22:39
+[[file:mediaAndCulture/2020-01-24_16-22-39_screenshot.png]]
+| 文化差异     | cultural differences |
+| 异域         |                      |
+| 原有文化     |                      |
+| 消除差异     |                      |
+| 遵循外国习俗 |                      |
+| 有害的          |                      |
+*** 旅游带来的优点
+#+DOWNLOADED: screenshot @ 2020-01-24 16:23:59
+[[file:mediaAndCulture/2020-01-24_16-23-59_screenshot.png]]
+1. 促进经济增长
+2. 帮助文化传承
+3. 促进文化交流
+4. 丰富了人们的生活
+**** 相关短语
+#+DOWNLOADED: screenshot @ 2020-01-24 16:27:39
+[[file:mediaAndCulture/2020-01-24_16-27-39_screenshot.png]]
+*** 旅游带来的缺点
+#+DOWNLOADED: screenshot @ 2020-01-24 16:28:14
+[[file:mediaAndCulture/2020-01-24_16-28-14_screenshot.png]]
+1. 破坏生态环境(break the ecological environment)
+2. 不尊重当地文化show no respect for local cultures
+
+**** 相关短语
+#+DOWNLOADED: screenshot @ 2020-01-24 16:30:03
+[[file:mediaAndCulture/2020-01-24_16-30-03_screenshot.png]]
+
+*** 文化相似的原因
+#+DOWNLOADED: screenshot @ 2020-01-24 16:30:39
+[[file:mediaAndCulture/2020-01-24_16-30-39_screenshot.png]]
+
+**** 文化相似的积极影响
+#+DOWNLOADED: screenshot @ 2020-01-24 16:31:19
+[[file:mediaAndCulture/2020-01-24_16-31-19_screenshot.png]]
+
+**** 文化相似的消极影响
+#+DOWNLOADED: screenshot @ 2020-01-24 16:32:11
+[[file:mediaAndCulture/2020-01-24_16-32-11_screenshot.png]]
+1. loss of cultural identity
+2. market dominated by a few brands
+3. young people may devalue their own culture
+*** Why rare languages become extinct
+#+DOWNLOADED: screenshot @ 2020-01-24 16:33:54
+[[file:mediaAndCulture/2020-01-24_16-33-54_screenshot.png]]
+1. English-speaking countries take the lead in various aspects
+2. The loss of minority languages is a natural phenomenon
+**** 语言各类表少的积极影响
+#+DOWNLOADED: screenshot @ 2020-01-24 16:35:04
+[[file:mediaAndCulture/2020-01-24_16-35-04_screenshot.png]]
+**** 消极影响
+#+DOWNLOADED: screenshot @ 2020-01-24 16:35:20
+[[file:mediaAndCulture/2020-01-24_16-35-20_screenshot.png]]
+*** 命题方向
+    博物馆和艺术馆正在消失的问题
+#+DOWNLOADED: screenshot @ 2020-01-24 16:37:28
+[[file:mediaAndCulture/2020-01-24_16-37-28_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 16:41:39
+[[file:mediaAndCulture/2020-01-24_16-41-39_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 16:43:50
+[[file:mediaAndCulture/2020-01-24_16-43-50_screenshot.png]]
+
