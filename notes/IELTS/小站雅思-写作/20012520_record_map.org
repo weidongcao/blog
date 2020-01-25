@@ -1,0 +1,120 @@
+* recordWrittingQuestionMap
+*选址题*
+比较同一时间,不同的地点
+
+*地理变迁题*
+比较不同时间,同一地点
+
+*建筑内部结构*
+不能写东南西北
+
+** 地图题注意事项
+#+DOWNLOADED: screenshot @ 2020-01-25 20:12:32
+[[file:recordWrittingQuestionMap/2020-01-25_20-12-32_screenshot.png]]
+
+*内容*
+
+*时态*
+
+*难点*
+
+** 地图题必备句式
+   1. there be 句型
+   2. where 引导的定语从句
+   3. located in situated at sited in等
+   4. while引导的状语从句
+   5. ...whth + 地点 + 位置
+   6. 被动语态(constructed, built, removed, replaced,
+       converted, expanded,enlarged,divided)
+** 题目训练
+#+DOWNLOADED: screenshot @ 2020-01-25 20:17:58
+[[file:recordWrittingQuestionMap/2020-01-25_20-17-58_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:18:08
+[[file:recordWrittingQuestionMap/2020-01-25_20-18-08_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:21:12
+[[file:recordWrittingQuestionMap/2020-01-25_20-21-12_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:21:54
+[[file:recordWrittingQuestionMap/2020-01-25_20-21-54_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:23:15
+[[file:recordWrittingQuestionMap/2020-01-25_20-23-15_screenshot.png]]
+** 常用方位词
+#+DOWNLOADED: screenshot @ 2020-01-25 20:29:27
+[[file:recordWrittingQuestionMap/2020-01-25_20-29-27_screenshot.png]]
+** 方位的常用表达句型
+#+DOWNLOADED: screenshot @ 2020-01-25 20:31:36
+[[file:recordWrittingQuestionMap/2020-01-25_20-31-36_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:33:31
+[[file:recordWrittingQuestionMap/2020-01-25_20-33-31_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:35:35
+[[file:recordWrittingQuestionMap/2020-01-25_20-35-35_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:37:20
+[[file:recordWrittingQuestionMap/2020-01-25_20-37-20_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:39:27
+[[file:recordWrittingQuestionMap/2020-01-25_20-39-27_screenshot.png]]
+** 例题
+   *地理变迁题*
+#+DOWNLOADED: screenshot @ 2020-01-25 20:40:08
+[[file:recordWrittingQuestionMap/2020-01-25_20-40-08_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:51:35
+[[file:recordWrittingQuestionMap/2020-01-25_20-51-35_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:54:05
+[[file:recordWrittingQuestionMap/2020-01-25_20-54-05_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 21:01:58
+[[file:recordWrittingQuestionMap/2020-01-25_21-01-58_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:41:52
+[[file:recordWrittingQuestionMap/2020-01-25_20-41-52_screenshot.png]]
+
+
+** 表示变化的常用词
+#+DOWNLOADED: screenshot @ 2020-01-25 20:46:36
+[[file:recordWrittingQuestionMap/2020-01-25_20-46-36_screenshot.png]]
+
+*原有事物的改变*
+#+DOWNLOADED: screenshot @ 2020-01-25 20:47:52
+[[file:recordWrittingQuestionMap/2020-01-25_20-47-52_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:48:58
+[[file:recordWrittingQuestionMap/2020-01-25_20-48-58_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 20:50:21
+[[file:recordWrittingQuestionMap/2020-01-25_20-50-21_screenshot.png]]
+
+** 地图题常用的句型
+   1. 倍数
+      The size of the playground si twice as large as what it used to be.
+   2. 单纯对比
+      overall, the layout for Plan A is more spacious, while the layout of Plan B is ...
+   3.
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 21:05:13
+[[file:recordWrittingQuestionMap/2020-01-25_21-05-13_screenshot.png]]
+   4. 对比介词短语
+      By contrast
+      in contrast
+      #+DOWNLOADED: screenshot @ 2020-01-25 21:06:13
+      [[file:recordWrittingQuestionMap/2020-01-25_21-06-13_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 21:07:09
+[[file:recordWrittingQuestionMap/2020-01-25_21-07-09_screenshot.png]]
+
