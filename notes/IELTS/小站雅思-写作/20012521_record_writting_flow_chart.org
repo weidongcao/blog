@@ -1,0 +1,139 @@
+* recordWrittingQuestionFlowChart
+  1. 生产类型
+     某种事物的生产工艺或加工流程
+  2. 循环类型
+     动植物的生命循环
+  3. 工作原理类型
+     酸雨的形成
+** 流程图作文如何开始
+   1. 确定第一步
+   2. 找出描述对象(一般是material)
+      动作出发者(如果没有就不写)
+      动词(一般用被动语态
+      单句写好后使用不同举行写出来
+   3. 写好的句子通过连接方法串起来
+** 流程图的重点
+   1. 被动句
+   2. 一般现在时态
+   3. 定语从句
+   4. 不能使用祈使句
+   5. 词汇量起到了一定作用
+
+#+DOWNLOADED: screenshot @ 2020-01-25 21:20:04
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-20-04_screenshot.png]]
+** 流程图必备句式
+   1. And并列句
+   2. Before + 分词
+   3. Once或者After引导的状语从句
+   4. After Which引导的定语从句
+   5. Where引导的定语从句
+   6. Consist of, is composed of, contain等
+** 描述流程的文章,应说明
+   1. 首先说明是做什么工作的过程,目的是什么
+   2. 准备工作
+   3. 按时间/过程先后描述
+   4. 结果
+   5. 简单总结(可有可无)
+
+   *应说明什么*
+   1. 实物是什么,做什么用的
+   2. 基本结构
+   3. 工作过程
+   4. 简单总结
+** 流程图注意事项
+   *信息*
+   按照流程顺序写,还要遗漏细节
+
+   *时态*
+   一般现在时
+   使用被动语态
+
+   *难点*
+   1. 生词较多,需要通过词性判断帮助理解
+   2. 步骤的衔接
+   3. 描述流程的动词使用
+
+** 例题
+   *题目*
+#+DOWNLOADED: screenshot @ 2020-01-25 21:32:55
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-32-55_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 21:39:08
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-39-08_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 21:41:21
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-41-21_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 21:48:07
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-48-07_screenshot.png]]
+
+** 流程图常用语句总结
+#+DOWNLOADED: screenshot @ 2020-01-25 21:51:06
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-51-06_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 21:51:28
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-51-28_screenshot.png]]
+
+** 流程图常用动词之获取
+   gather/collect --> 收集
+
+   obtain/gain/get/acquire -> 获取
+
+   absort -> 吸收
+
+   Draw -> 提取
+
+   extract -> 提取
+
+   *出现*
+#+DOWNLOADED: screenshot @ 2020-01-25 21:56:07
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-56-07_screenshot.png]]
+
+   *消失*
+#+DOWNLOADED: screenshot @ 2020-01-25 21:56:32
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-56-32_screenshot.png]]
+   *变化*
+#+DOWNLOADED: screenshot @ 2020-01-25 21:56:49
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-56-49_screenshot.png]]
+
+sort 
+be made up of, be made of
+feed on 
+depend on relay on
+
+    *加工*
+#+DOWNLOADED: screenshot @ 2020-01-25 21:58:44
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-58-44_screenshot.png]]
+    *位置移动*
+#+DOWNLOADED: screenshot @ 2020-01-25 21:59:09
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-59-09_screenshot.png]]
+    *其他*
+#+DOWNLOADED: screenshot @ 2020-01-25 21:59:28
+[[file:recordWrittingQuestionFlowChart/2020-01-25_21-59-28_screenshot.png]]
+
+** 真题讲解
+#+DOWNLOADED: screenshot @ 2020-01-25 22:03:18
+[[file:recordWrittingQuestionFlowChart/2020-01-25_22-03-18_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 22:03:32
+[[file:recordWrittingQuestionFlowChart/2020-01-25_22-03-32_screenshot.png]]
+
+*标题改写*
+
+#+DOWNLOADED: screenshot @ 2020-01-25 22:06:42
+[[file:recordWrittingQuestionFlowChart/2020-01-25_22-06-42_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 22:07:06
+[[file:recordWrittingQuestionFlowChart/2020-01-25_22-07-06_screenshot.png]]
+
+
+
+#+DOWNLOADED: screenshot @ 2020-01-25 22:09:37
+[[file:recordWrittingQuestionFlowChart/2020-01-25_22-09-37_screenshot.png]]
+
