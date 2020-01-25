@@ -1,0 +1,184 @@
+* broadcastTask2_动态图主体段和基础语句
+** 上节订内容回顾
+   动态图审题原则
+   数据选取
+   结构:开头段, 概括, 细节
+*** 范文讲解
+ #+DOWNLOADED: screenshot @ 2020-01-24 18:13:36
+ [[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_18-13-36_screenshot.png]]
+开头段:
+** 动态图主体段写法
+*** Overall部分
+#+DOWNLOADED: screenshot @ 2020-01-24 18:59:27
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_18-59-27_screenshot.png]]
+*** 细节数据分段思路
+#+DOWNLOADED: screenshot @ 2020-01-24 18:59:59
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_18-59-59_screenshot.png]]
+1. 单图按照属性分组:趋势,大小,属性
+2. 多图如果描述对象一致,单位一致,等于单图来看
+3. 多图如果描述对象不一致,不一致,按照图 来分
+**** 开关段
+#+DOWNLOADED: screenshot @ 2020-01-24 19:02:00
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-02-00_screenshot.png]]
+*** 动态图主体段写法
+    *趋势描写*
+#+DOWNLOADED: screenshot @ 2020-01-24 19:07:24
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-07-24_screenshot.png]]
+    *数据导入*
+#+DOWNLOADED: screenshot @ 2020-01-24 19:02:52
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-02-52_screenshot.png]]
+
+    *四大趋势的描述*
+#+DOWNLOADED: screenshot @ 2020-01-24 19:04:31
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-04-31_screenshot.png]]
+gradual逐步,
+dramatic快速的,
+sharp急速的,
+*** 基本句型(极值)
+#+DOWNLOADED: screenshot @ 2020-01-24 19:20:09
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-20-09_screenshot.png]]
+London subway ranked the first in terms of age.
+The cost of food accounted for the largest proportion of the family expenses, at 40%.
+*** 六大基本句型
+#+DOWNLOADED: screenshot @ 2020-01-24 19:25:54
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-25-54_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:31:33
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-31-33_screenshot.png]]
+
+1. 语句(the number of ...) + 谓(increased/decreased) from ... to ...
+2. There be句型:There was a downward trend of male smokers, from 21% in 1960 to 17% in 2000
+3. 分词做伴随的时候,主语在同一时间的两种状态或两个动作
+   The number of goods showed an upward trend, increasing from 10% to 20% in the past decade.
+   Spain accounted for the largest proportion, follower by Italy
+4. 主语 + accounted for + proportion of
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:38:05
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-38-05_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:38:36
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-38-36_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:39:34
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-39-34_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:41:03
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-41-03_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:42:41
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-42-41_screenshot.png]]
+*** 动态图 的常用词汇
+#+DOWNLOADED: screenshot @ 2020-01-24 19:43:15
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-43-15_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:45:15
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-45-15_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:46:08
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-46-08_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:46:46
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-46-46_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:47:26
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-47-26_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:48:15
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-48-15_screenshot.png]]
+
+表示持平,不变,最高点,最低点
+stay/keep/
+unchange
+remain
+constant
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:49:21
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-49-21_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:49:55
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-49-55_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:51:14
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-51-14_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:53:31
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-53-31_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:54:05
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-54-05_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:56:03
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-56-03_screenshot.png]]
+
+The advantages of using computers far outweigh the disadvantages.
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:57:26
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-57-26_screenshot.png]]
+The gap between me''s incomes and women's incomes narrowed over the 25-year period.
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 19:58:34
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_19-58-34_screenshot.png]]
+The consumption of chicken showed an upward trend, overtaking that of lamb in 1980.
+
+表示对于将来数字的预测的动词:
+expect
+project
+predict
+coal is predicted to increase steadily to 31 quadrillion units by 2030
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 20:03:21
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_20-03-21_screenshot.png]]
+趋势词汇
+#+DOWNLOADED: screenshot @ 2020-01-24 20:03:29
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_20-03-29_screenshot.png]]
+
+程序形容词/副词
+#+DOWNLOADED: screenshot @ 2020-01-24 20:03:48
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_20-03-48_screenshot.png]]
+
+
+最常用的副词
+#+DOWNLOADED: screenshot @ 2020-01-24 20:04:09
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_20-04-09_screenshot.png]]
+
+*介词*
+
+#+DOWNLOADED: screenshot @ 2020-01-24 20:07:33
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_20-07-33_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-24 20:13:58
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_20-13-58_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 20:14:30
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_20-14-30_screenshot.png]]
+*** 范文讲解
+#+DOWNLOADED: screenshot @ 2020-01-24 21:39:52
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_21-39-52_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 21:43:45
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_21-43-45_screenshot.png]]
+*** 范文讲解-饼状图
+#+DOWNLOADED: screenshot @ 2020-01-24 21:51:28
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_21-51-28_screenshot.png]]
+
+  *范文*
+#+DOWNLOADED: screenshot @ 2020-01-24 22:07:26
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_22-07-26_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-24 22:11:59
+[[file:broadcastTask2_动态图主体段和基础语句/2020-01-24_22-11-59_screenshot.png]]
+
