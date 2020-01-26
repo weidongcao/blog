@@ -1,0 +1,253 @@
+* broadcastIELTSWrittingTask2议论文的审题与题型结构
+** 上节回顾
+*** 作业讲解
+    Some people think the government/governments should pay for education and
+    medical care/healthcare.
+    To what extent do you argee or disagree with this statement
+
+    *结构*:
+    开头段
+    主体段1:政府应该承担的理由
+    主体段2:不应该全部由政府承担的理由
+    结尾段
+
+
+    *背景句*:
+    How to finance/fund the increasing costs of healthcare and education has become a major concern to many
+
+    There is an ongoing controversy about whether the increasing costs of healthcare and
+    education should be fully covered by the state
+
+    *点题句*:
+    while some insist that they should be provided by goverments for free ,
+    others think that it is ot the responsibility of the government.
+
+    Generally, I believe that goverments should cover some part of the bills at least.
+
+
+    *改写题目*
+
+
+    *个人想法*:
+
+#+DOWNLOADED: screenshot @ 2020-01-26 17:04:47
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-04-47_screenshot.png]]
+
+课程安排
+** 内容
+*** 主体段的写作
+    全篇文章写3 - 4个观点足以
+
+    每段话大概写3 - 4句话,第一句一般中中心句,然后写2 - 3句论述
+
+
+    Begining -- view of point
+    1. Background
+    2. Transition
+    3. View of Point
+    4. 40 words -3 Sentence
+
+    Body -- supporting ideas: 3 - 4:
+    1. Topic sentence
+    2. Supporting ideas
+    3. Transitional sentence
+    4. 180 words 10sentences
+
+    Ending --repetition of the opening
+    1. 30 words -2/3 sentences
+
+    *注意点*
+#+DOWNLOADED: screenshot @ 2020-01-26 17:17:55
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-17-55_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 17:21:00
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-21-00_screenshot.png]]
+**** 解决-头脑风暴 - Stakeholder
+     利益相关体:即一个人,一件事,一个措施,所影响和涉及到的群体
+
+     快速识别了Stakeholder
+
+     Stakeholder怎么受影响
+
+     整理成认识论据
+
+#+DOWNLOADED: screenshot @ 2020-01-26 17:32:47
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-32-47_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 17:35:19
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-35-19_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 17:35:28
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-35-28_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 17:38:00
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-38-00_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 17:46:21
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-46-21_screenshot.png]]
+*** 写作思路从哪儿来
+**** 3C角度
+     *成本cost*
+     沟通成本,
+     交通成本,
+     学费,
+     *文化culture*
+     企业文化,
+     本地文化,
+     *能力capability*
+     技能(skill)
+***** 例子
+      24/7完全免费的公共交通对commuters的影响
+
+      乘坐体验怎么样
+
+      超载,延迟,
+
+      经常超载,延迟,乘客宁愿步行,打车也不愿坐,
+**** 5e
+     *environment*
+     自然环境,
+     工作环境,
+     学习环境,
+
+     *economy*
+     经济发展,
+     经济合作,
+     性价比,
+
+     *efficiency*
+     学习效率,
+     工作效率,
+     通勤,
+     生产力,
+
+     *emotion*
+     情绪,
+     心态,
+     心理,
+     责任感,
+     感受,
+
+     *experience*
+     经历,
+     经验,
+***** 例子有些人喜欢餐厅用餐,有些人喜欢在家里做饭,你倾向于哪种
+#+DOWNLOADED: screenshot @ 2020-01-26 18:15:02
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-15-02_screenshot.png]]
+**** 真题训练
+     *真题题目*:
+#+DOWNLOADED: screenshot @ 2020-01-26 18:17:22
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-17-22_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 18:26:55
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-26-55_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 18:28:32
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-28-32_screenshot.png]]
+
+
+*** 观点与论证
+    
+**** 4种逻辑论证
+     
+***** 因果推理
+#+DOWNLOADED: screenshot @ 2020-01-26 19:01:59
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_19-01-59_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 19:44:29
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_19-44-29_screenshot.png]]
+
+
+***** 举例
+      *正确的举例方式:由抽象到具象*:
+#+DOWNLOADED: screenshot @ 2020-01-26 18:33:31
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-33-31_screenshot.png]]
+
+      *举例展开*:
+#+DOWNLOADED: screenshot @ 2020-01-26 18:34:52
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-34-52_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 18:35:04
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-35-04_screenshot.png]]
+      *举例注意事项*:
+#+DOWNLOADED: screenshot @ 2020-01-26 18:36:40
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-36-40_screenshot.png]]
+
+
+***** 对比
+#+DOWNLOADED: screenshot @ 2020-01-26 19:49:15
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_19-49-15_screenshot.png]]
+
+
+***** 解释说明
+      可以将之前某一个不够清晰的想法加以阐述,说明及解释
+
+       - 一味改写之前的句子
+       - 一再的句意重复
+
+       用于解释的引导方式主要有:
+
+       in other words, that is to say,
+
+       ... which means that ...
+
+       *真题例子*
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:05:00
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-05-00_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:09:58
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-09-58_screenshot.png]]
+
+
+
+*** 拓展思路:逻辑技巧五式
+*** 实战演练
+    *2018年12月1日 (Task 1)大陆考区*:
+#+DOWNLOADED: screenshot @ 2020-01-26 20:16:31
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-16-31_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:31:22
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-31-22_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:30:55
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-30-55_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:35:36
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-35-36_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:37:02
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-37-02_screenshot.png]]
+**** 语义连接词
+ #+DOWNLOADED: screenshot @ 2020-01-26 20:37:31
+ [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-37-31_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:38:03
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-38-03_screenshot.png]]
+**** 8种逻辑连接衔接方法
+#+DOWNLOADED: screenshot @ 2020-01-26 20:39:28
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-39-28_screenshot.png]]
+**** 状语从句
+**** 一些名词性从句
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:41:20
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-41-20_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:42:33
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-42-33_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:43:12
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-43-12_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 20:44:11
+[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-44-11_screenshot.png]]
+
+*** 中间段的具体表达
+
