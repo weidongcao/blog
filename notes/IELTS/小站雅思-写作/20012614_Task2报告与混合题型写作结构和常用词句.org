@@ -1,0 +1,220 @@
+* broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence
+  Task2报告与混合题型写作结构和常用词句
+  
+** 大作文
+
+*** 大作文初探:课程内容介绍
+    - 大作文题型介绍
+    - 审题注意事项
+      跑题6分以下
+    - 议论文题型基本结构介绍
+    - 开头段的具体写法
+    - 实战演练
+*** Argumentation的5种提问方式
+    1. To what extent do you agree or disagree?
+    2. Do you think the advantages of ... outweigh the disadvantages?
+    3. Is it a positive or negative development?
+    4. discuss both views adn give your own opinion?
+    5. what is your opinion? what do you think?
+
+    Task2中报告Report,出现概率为15%
+    - 题目中没有观点,只给出一种现象,让考生分析该现象的causes,
+
+ #+DOWNLOADED: screenshot @ 2020-01-26 14:20:33
+ [[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_14-20-33_screenshot.png]]
+
+ #+DOWNLOADED: screenshot @ 2020-01-26 14:20:09
+ [[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_14-20-09_screenshot.png]]
+*** 议论两个人观点,给出自己的立场
+#+DOWNLOADED: screenshot @ 2020-01-26 14:27:06
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_14-27-06_screenshot.png]]
+**** 结构
+     1. 开头段
+     2. A的观点合理性
+     3. B的观点合理性
+     4. 结尾段:个人的看法
+**** 优点 VS 缺点
+     问法1:Do you think the advantages outweigh the disadvantages?
+     注意点1
+     优点缺点都要有讨论,分出高低
+
+     注意点2:还要出现Some people think 这样的字眼(这是和discuss both views不同的地方)
+
+     注意点3:最简单的解决,1:2
+
+    1. 开头段
+    2. 优点1(缺点1)
+    3. 缺点1(优点1)
+    4. 缺点2(优点2)
+    5. 总结(优点多于缺点 or reverse)
+
+    3 - 4个观点
+
+    15 - 20句话左右
+**** 一个观点的讨论
+#+DOWNLOADED: screenshot @ 2020-01-26 14:38:26
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_14-38-26_screenshot.png]]
+**** (Partly Agree)部分赞同 - 有好有坏,有明显偏向
+     开头段
+
+     赞同理由1
+     赞同理由2
+     让步段(找出反方观点的合理性)
+     总结
+
+
+     开头段
+
+     不赞同理由1
+     不赞同理由2
+
+     让步段(找出反方观点的合理性)
+
+     总结
+**** 完全Agree 赞同逻辑:不常见
+     开头段
+
+     赞同理由1
+
+     赞同理由2
+     赞同理由3
+
+     总结
+**** 完全Disagree 不赞同逻辑
+     开头段
+
+     不赞同理由1
+     不赞同理由2
+     不赞同理由3
+     总结
+*** 审题注意事项
+    1. 题目的类型(优点/缺点, 观点类,论述类,报告类,类,混合类)
+    2. 题目针对群体(结合直播课5的头脑风暴技巧)
+    3. 话题类型
+    4. 结对化的词句:best only must ...
+    5. 题目的细节限定
+    6. 题目
+
+#+DOWNLOADED: screenshot @ 2020-01-26 14:45:33
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_14-45-33_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 14:46:22
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_14-46-22_screenshot.png]]
+*** 题干观点破题点
+    Some people think ...
+
+    Some people argue ...
+
+    Others believe
+
+    两个人观点比较或者一个人观点比较
+*** 题目细节限定
+#+DOWNLOADED: screenshot @ 2020-01-26 14:50:06
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_14-50-06_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 14:50:14
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_14-50-14_screenshot.png]]
+*** 题干背景:逻辑关系
+#+DOWNLOADED: screenshot @ 2020-01-26 14:56:13
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_14-56-13_screenshot.png]]
+
+因果,转折:重点就放在了表示结果和表示转折的句子
+
+并列/比较:前后同样重要
+
+过去比较:时间比较
+**** 具体化/降层
+#+DOWNLOADED: screenshot @ 2020-01-26 15:04:11
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-04-11_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 15:07:24
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-07-24_screenshot.png]]
+
+*** 19年5月11日真是
+  Most of wolrd's problems are caused by overpopulation. To what extent dy you agree or disagree
+
+
+  #+DOWNLOADED: screenshot @ 2020-01-26 15:11:09
+  [[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-11-09_screenshot.png]]
+**** 不赞同逻辑
+     题目出现极端词汇的通常需要反驳,像"禁止","只有","强迫"这类词汇
+     ban
+     only
+     be required to
+     The best way/solution
+     should
+     must
+**** 大作文的布局
+     一篇文章,分为三个部分(注意,不是3段)
+
+     - 介绍段(introduction)
+     - 论述部分(body)
+     - 结尾(Conclusion)
+
+     *全篇文章写3-4个观点足以*
+
+     *每一个观点由2-3句的论述*
+
+     *观点:总结性,归纳性的表达;切忌假大空*
+
+     *总结性, 归纳性的表达*
+     - 看电视上网对人们有辐射
+     - 电子产品的使用对人们的身体健康有伤害
+     
+     *切忌假大空*
+     - 建更多的公园帮助人们健康
+     - 建更多的公园帮助人们心理压力
+**** 观点的常见问题
+     1. 观点答非所问
+     2. 观点无力(针对的人群太小,或者还是主要的优点,缺点)
+     3. 其中两个观点重复,没有区分度
+     4. 一个现象/例子写成观点,没有概括性
+     5. 假大空,譬如说社会稳定,提高社会地位,社会和谐
+     6. 观点和我们的常识不相符
+     7. 不同的观点写在一起
+*** 大作文写法
+**** 首段写法(General structure of an opening)
+#+DOWNLOADED: screenshot @ 2020-01-26 15:50:20
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-50-20_screenshot.png]]
+***** Sentence 1: background (general statement) - 背景句
+#+DOWNLOADED: screenshot @ 2020-01-26 15:51:52
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-51-52_screenshot.png]]
+
+Success = prosperity / achievement / accomplishment / effort
+
+背景句1:People have long been interested in identifying the forces that contribute to personal achievement
+
+背景句2:The importance o the theoretical knowledge to one's success is a matter for debate
+***** Sentence 1: background (general statement) - 背景句
+#+DOWNLOADED: screenshot @ 2020-01-26 15:55:00
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-55-00_screenshot.png]]
+背景句1:The influence of advertising on our customer behaviors is a subject matter
+
+#+DOWNLOADED: screenshot @ 2020-01-26 15:55:44
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-55-44_screenshot.png]]
+**** 常用背景句或词组
+ #+DOWNLOADED: screenshot @ 2020-01-26 15:56:02
+ [[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-56-02_screenshot.png]]
+*** 改写题目
+
+#+DOWNLOADED: screenshot @ 2020-01-26 15:58:06
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-58-06_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 15:59:57
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_15-59-57_screenshot.png]]
+*** 常用表明个人立场句
+#+DOWNLOADED: screenshot @ 2020-01-26 16:03:31
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_16-03-31_screenshot.png]]
+*** 结尾段
+#+DOWNLOADED: screenshot @ 2020-01-26 16:05:00
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_16-05-00_screenshot.png]]
+**** 结尾段常用句式
+#+DOWNLOADED: screenshot @ 2020-01-26 16:06:24
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_16-06-24_screenshot.png]]
+** 作文要求
+   先思考,第5节课听完再写
+#+DOWNLOADED: screenshot @ 2020-01-26 16:07:34
+[[file:broadcastIELTSWrittingTask2ReportAndMixtureAndcommonSentence/2020-01-26_16-07-34_screenshot.png]]
+
