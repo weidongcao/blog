@@ -1,0 +1,223 @@
+* broadcastWrittingTask3StaticChart
+
+** 上节课回顾
+
+*** 范文讲解
+
+**** 题目
+  #+DOWNLOADED: screenshot @ 2020-01-26 10:34:31
+  [[file:broadcastWrittingTask3StaticChart/2020-01-26_10-34-31_screenshot.png]]
+
+  #+DOWNLOADED: screenshot @ 2020-01-26 10:34:43
+  [[file:broadcastWrittingTask3StaticChart/2020-01-26_10-34-43_screenshot.png]]
+
+**** 范文
+ #+DOWNLOADED: screenshot @ 2020-01-26 10:36:51
+ [[file:broadcastWrittingTask3StaticChart/2020-01-26_10-36-51_screenshot.png]]
+
+ #+DOWNLOADED: screenshot @ 2020-01-26 10:39:39
+ [[file:broadcastWrittingTask3StaticChart/2020-01-26_10-39-39_screenshot.png]]
+
+ #+DOWNLOADED: screenshot @ 2020-01-26 10:42:03
+ [[file:broadcastWrittingTask3StaticChart/2020-01-26_10-42-03_screenshot.png]]
+
+**** 上节课的练习
+
+ #+DOWNLOADED: screenshot @ 2020-01-26 10:45:02
+ [[file:broadcastWrittingTask3StaticChart/2020-01-26_10-45-02_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 10:46:43
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_10-46-43_screenshot.png]]
+
+** 静态图
+   *对比-考试的重点*
+   否认图表里出现了多少个数据,你的任务总是从中提炼出2-3个宏观特征,这些特征包括:哪一组最高,
+   哪一组最低,两组之间是相似还是相差的关系.
+
+
+
+*** 分段思路
+     - 单图 按照描述对象分(段避免一长一短)
+       类似性质
+       高低
+       趋势类似程序
+     - 多图如果描述对象一致,单位一致,等于单图一类看
+     - 多图 如果描述对象不一致,单位不一致,按照图来分
+*** 静态图 ---数据的选取
+    最值极值:起始值,最终值,最高值,最低值
+
+    比较级
+
+    总值,均值,倍数关系
+*** 数据小作文审题步骤
+    图例的横竖轴信息
+
+    注意图表的时态
+
+    单位一定要保留
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:01:55
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-01-55_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:22:14
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-22-14_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:23:22
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-23-22_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:25:26
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-25-26_screenshot.png]]
+*** 主体段的写法
+    *首句写法的规则*
+
+    如果图里存在着时间推移(动态图),那么首句就概括该图形的总体变化趋势(整体上升,整体下降还是整体波动)
+
+    如果图里并不存在时间推移(静态图),那么段首句就概括该图形由几个部分组成或者该图形的哪一类数据整体上
+
+    高于其他的数据
+
+    *主体段首句之后X句写法*:
+
+    静态图:按照从大到小的顺序,按照行或列的顺序介绍
+
+    一旦出现就必须介绍的数字(在有限的时间内尽可能多地介绍一些数字即可)
+
+    起始点, 终止点, 变化趋势, 转折点, 极值, 交点, 百分比
+*** 静态图:数据选取训练
+    例1:大家尝试选取下重要的信息
+
+    图例的横竖轴信息
+
+    注意图表的时态
+
+    单位一定要保留
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:37:26
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-37-26_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:39:55
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-39-55_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:41:49
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-41-49_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:41:57
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-41-57_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:44:59
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-44-59_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:44:52
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-44-52_screenshot.png]]
+**** 线图
+ #+DOWNLOADED: screenshot @ 2020-01-26 11:50:53
+ [[file:broadcastWrittingTask3StaticChart/2020-01-26_11-50-53_screenshot.png]]
+**** 柱状图
+#+DOWNLOADED: screenshot @ 2020-01-26 11:53:51
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-53-51_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2020-01-26 11:56:53
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_11-56-53_screenshot.png]]
+*** 基本句型(极值)
+    The Cost of food accounted for the largest proportion of the family expenses, at 40%.
+
+    the cost of food accounted for 40% of the family expense, which was the highest figure.
+
+    the percentage of ... if highest/lowest
+
+    ... was + 最高级
+
+    ... ranked the first in terms of ...
+
+    London subway ranked the first in terms of age
+*** 基本句型(比较)
+    *单纯比较*
+
+
+    *程序比较*
+
+    slightly / marginally
+    much/considerablly
+
+    *例句*
+    The proportion of marriages was considerably larger than that of divorces, at respectively 60% and 17%.
+
+    the percentage of Turkey was slightly highter than that of Spain
+
+    The differene between the spending on books and insurance was barely noticable, constituting 20% and 27% respectively
+*** 基本句型(倍数)
+    n times as large as
+
+    The poverty rate of single peole was three times as large as that of couples
+*** 分数的表达
+     - 一半 a half
+     - 三分之一 one-third
+     - 三分之二 two thirds
+     - 四分之一 a quarter
+     - 四分之三 three fourths, three quaters
+     - 九个中有一个 one in nine
+*** 静态图常用表达
+    be hvae, reach, hit, account for
+    eg.澳大利亚和英国都占10%
+
+    Australian and UK both had 10%
+
+    eg.中国人占市场份额最大.
+
+    Chinese accounted for the largest percentage of market share
+*** 雅思小作文常用描述图表词汇9.表示"占据"
+    1. make up
+    2. take up
+    3. account for
+    4. be conposed of
+    5. constitute
+    6. comprise
+
+*** 例题训练
+    The table below shows the proportion of different categories of families living in poverty in Australia in 1999.
+
+    | Family type          | Proportion of people from each household type living in poverty |
+    |----------------------+-----------------------------------------------------------------|
+    | single aged person   | 6% (54,000)                                                     |
+    | aged couple          | 4% (48,000)                                                     |
+    | single, no children  | 19% (359,000)                                                   |
+    | couple, no children  | 7% (211,000)                                                    |
+    | sole parent          | 21% (232,000)                                                   |
+    | couple with children | 12 (933,000)                                                    |
+    | all households       | 11% (1,837,000)                                               |
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 12:27:17
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_12-27-17_screenshot.png]]
+*** 柱状图的静态图
+    真题:The chart shows the aerage class size in six countries in 2006,
+    and compares them with world average class size
+
+    Summarize the information by selecting and reporting the main features,
+    and make comparisons where relevant.
+
+    wite at least 150 words
+
+#+DOWNLOADED: screenshot @ 2020-01-26 12:33:53
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_12-33-53_screenshot.png]]
+**** 范文
+     The bar chart shows the differences in the schools' class size in six countries in 2006
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 12:45:23
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_12-45-23_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 12:46:26
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_12-46-26_screenshot.png]]
+
+
+#+DOWNLOADED: screenshot @ 2020-01-26 12:47:44
+[[file:broadcastWrittingTask3StaticChart/2020-01-26_12-47-44_screenshot.png]]
+
+overall, south Korea had the biggest class sized while Iceland had the smallest
+in toe two types of schools in the given chart
+
