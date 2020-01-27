@@ -90,15 +90,17 @@
 [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-46-21_screenshot.png]]
 *** 写作思路从哪儿来
 **** 3C角度
-     *成本cost*
-     沟通成本,
-     交通成本,
-     学费,
-     *文化culture*
-     企业文化,
-     本地文化,
-     *能力capability*
-     技能(skill)
+***** *成本cost*
+      - 沟通成本,
+      - 交通成本,
+      - 学费,
+     
+***** *文化culture*
+      - 企业文化,
+      - 本地文化,
+      
+***** *能力capability*
+      - 技能(skill)
 ***** 例子
       24/7完全免费的公共交通对commuters的影响
 
@@ -110,29 +112,41 @@
 **** 5e
      *environment*
      自然环境,
+     
      工作环境,
+     
      学习环境,
 
      *economy*
      经济发展,
+     
      经济合作,
+     
      性价比,
 
      *efficiency*
      学习效率,
+     
      工作效率,
+     
      通勤,
+     
      生产力,
 
      *emotion*
      情绪,
+     
      心态,
+     
      心理,
+     
      责任感,
+     
      感受,
 
      *experience*
      经历,
+     
      经验,
 ***** 例子有些人喜欢餐厅用餐,有些人喜欢在家里做饭,你倾向于哪种
 #+DOWNLOADED: screenshot @ 2020-01-26 18:15:02
@@ -249,5 +263,4 @@
 #+DOWNLOADED: screenshot @ 2020-01-26 20:44:11
 [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-44-11_screenshot.png]]
 
-*** 中间段的具体表达
 
