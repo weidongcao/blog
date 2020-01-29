@@ -1,0 +1,221 @@
+* record_listening_200119_1
+** 数字人名听写问题
+   数字人名雅思会点4-5分
+*** 班课要求
+    1. 课前:课前测试 -- 教材中
+    2. 课中:
+       记笔记
+
+       标注例题
+
+       课后回看
+    3. 课后_:
+       完成作业_
+       勤问问题_
+
+A和8的发音区别
+
+#+DOWNLOADED: screenshot @ 2020-01-28 17:07:44
+[[file:record_listening_200119_1/2020-01-28_17-07-44_screenshot.png]]
+
+
+1. 性质:
+   1. 必考题,
+   2. 送分题,
+   3. 奔命题
+2. 难点:
+   1. 能否速写
+   2. 格式问题
+   3. 还要漏听
+
+*难点*
+- 速写
+- 漏听
+
+*** 时间考点
+**** 四维度
+     1. 具体时刻: 4.30 11.00
+     2. 具体日期: 12 October
+     3. 星期假期: Sunday/Christmas Day
+     4. 时间段  : afternoon
+
+
+ #+DOWNLOADED: screenshot @ 2020-01-28 17:15:39
+ [[file:record_listening_200119_1/2020-01-28_17-15-39_screenshot.png]]
+ pm/am表示时间,一定要精确,可能有before/after
+
+ 具体时间没有冒号,没有24小时制,所听即所得,但是有可能有介词
+
+ when后面跟时间或者地点
+**** 具体日期
+     *12个月一定要背下来*
+
+     *1-9的序数词一定要背下来做到快速反应*
+
+
+#+DOWNLOADED: screenshot @ 2020-01-28 17:27:39
+[[file:record_listening_200119_1/2020-01-28_17-27-39_screenshot.png]]
+***** 12个月
+      1. January
+      2. February
+      3. March
+      4. April
+      5. May
+      6. June
+      7. July
+      8. August
+      9. September
+      10. October
+      11. November
+      12. December
+**** 星期/假期
+***** 星期
+      - 周一 -> Monday
+      - 周二 -> Tuesday
+      - 周三 -> Wednesday
+      - 周四 -> Thursday
+      - 周五 -> Friday
+      - 周六 -> Saturday
+      - 周日 -> Sunday
+      - 周末 -> weekend
+***** 假期
+      - 元旦 -> New Year's Day
+      - 国庆节 -> National Day
+      - 万圣节 -> Halloween
+      - 圣诞节 -> Christmas Day
+
+      注意单复数
+
+      具体的节假日之前要加"the"
+***** 时间段
+      afternoon morning night evening
+      peak time off peak time
+      tea break coffee break
+*** 数字听写
+**** 长数字
+     - *题干词*
+       [contact NO.]   [telephone NO.]
+       [reference NO.] [credit card NO.*]
+     - *难点*
+       1. 数字中不会报骗子数词
+       2. triple三个, double两个 zero/o = 0
+       3. 练习方法: 数字从句听写训练1 + 泛读寻找盲区
+**** 金额
+     *在什么情况下会听到钱呢?*
+
+     - *题干词*
+
+       - water
+
+       - electricity
+
+       - power
+
+       - gas
+
+       - telephone
+
+       - phone bill
+     - *金额单位*
+       - 英镑:pounds
+
+       - 美元:dollars
+
+     - *难点*
+       - 金额的读法
+         $4.45 读成4 dollars and forty five
+         1600 读成 sixteen hundred
+         0.6 读成point six 或者naught six
+
+       - 大数字的写法
+         12 million 12 thousand and 19
+         12M 12T 19 = 12,012,019
+
+       - fee / fare
+
+*** 地址考点
+    *题干词*: address, area, location
+
+    
+    
+**** 具体地址 -- 高频
+
+     1. 写法: 21A station avenue
+     2. 注意: street/avenue/road/lane/drive/house 可能要加
+
+    
+****  方向
+     - east
+     - west
+     - south
+     - north
+     - northwest
+     - southeast
+**** 城郊
+     1. city center
+     2. town center
+     3. downtown suburb
+     4. outskirtsurban
+     5. suburban
+     6. rural
+**** 数字字母混 写
+     19 读成nineteen
+     A 8 H  -> 数字字母混写不会出现A 8混读
+     M N不好分
+***** 难点
+#+DOWNLOADED: screenshot @ 2020-01-29 11:47:55
+[[file:record_listening_200119_1/2020-01-29_11-47-55_screenshot.png]]
+雅思听力里只会有W, 不会是两个U
+
+听写最重要的是不要着急,
+
+数字人名听写训练3
+*** 连词&组合词
+**** 连字符问题与组合词问题
+     【连写】
+
+     firewood workshop showroom mibibus outline handout footbridge undersea checklist viewpoint
+
+     txtbooks bookshop bookstore network
+
+     workbook timetable charcoal ecosystem water proof booklet
+
+     warehouse clubhouse midday
+
+     Newtown northwest smartphone leaflet newsletter
+
+     hairdresser postbox bathroom
+
+     【组合词】
+
+     notice board photo card eye drop show room
+
+     【连字符】
+
+     以下为所有需要连字符的词
+
+     7-screen cinema, 10-minute walk, U-turn
+     full-time job, part-time job, low-risk investment, keep-fit studio
+     door-to-door service
+     brother-in-law, car-park, day-off, time-off, post-box, car-park
+     first-aid kit, mkd-day, note-taking skill, self-employed
+*** 书写问题 Q&A
+    1. 不能缩写(例如原文television不能写成TV）
+    2. 答案大小写问题
+       1） 40个答案全大写（推荐）例如：ANSWER， CHINESE
+       2） 40个答案全小写（需要大写的地方：星期首字母，假期首字母，国家首字母
+    3. 席卷上能否做寿 标记？能， 答卷上不能【机考除外】
+    4. 铅笔作答【机考除外】
+    5. 英美拼写皆可
+
+** Review
+
+#+DOWNLOADED: screenshot @ 2020-01-29 12:26:57
+[[file:record_listening_200119_1/2020-01-29_12-26-57_screenshot.png]]
+
+
+
+
+
+
+
