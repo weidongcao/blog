@@ -1,0 +1,193 @@
+* 雅思小作文常用词汇短语句子
+** 描述图表词汇
+*** 表示"主语"
+    1. 图表本身:table,line(bar/pie),chart(Graph/diagram)
+    2. 数据形式:Figures, Statistic, information, data
+    3. It形式主语, There be句型
+*** 表示"上升" 和 "下降"
+    1) rise(to)
+    2) increase(to)
+    3) go up(to)
+    4) an upward trend(in)
+    5) fall(to)
+    6) decline(to)
+    7) drop(to)
+    8) a downward trend(in)
+    9) with a rise/drop(etc.) of ...
+    10) surge from ... to ...猛增
+    11) be on the rise
+    12) be in decline
+    13) down ...(幅度) from ...(高) to ... (低)
+    14) up ...(幅度) from ... (低) to ...(高)
+    15) rise/increase/drop(etc) further from ... to ...
+    16) a rise/drop(etc) of + 百分数/数字 = a 百分数/数字 rise/drop(etc)
+    17) rise/drop(etc) + 数字/百分数/倍数 = rise/drop(etc) + a record of + 数字/百分数
+
+*** 表示"平稳"
+    - remain stable(at)
+    - stay constant(at)
+    - maintain the same level(at)
+    - remain around that figure
+    - reach a plateau:到达(上升后的)平衡期
+    - no change(in)
+    - be flat at:平稳在...
+    - level out at:平衡在...
+
+*** 表示"波动", "最高值", "最低值"
+    1. hover around: 在 ... 徘徊
+    2. fluctuate around/at: 在...波动(点)
+    3. fluctuate between ... and ...: 在...波动(范围)
+    4. rise and drop(between ... and ...): 起伏(在...之间)
+    5. peak at: 在...达到值
+    6. hit a peak(of) ...
+    7. reach the highest point at: 在...达到最大值
+    8. reach the lowest point at: 在...达到最低值
+    9. reach the lowest point at: 在...达到最低值
+*** 表示"变化程度"
+    1) dramatic -> dramatically: 巨大
+    2) significant -> significantly: 巨大
+    3) moderate -> moderately: 适度
+    4) slight -> sightly: 微小
+    5) minimal -> minimally: 极其微小
+*** 表示"变化速度"
+    - sudden -> suddenly:忽然
+    - rapid -> rapidly:快速
+    - steady -> steadily:平衡
+    - gradual -> gradually:逐渐
+*** 表示"说明" 
+    - *show*
+    - *illustrate*
+    - *describe*
+    - *unfold*
+    - *reveal*
+*** 表示"大约"
+    1. about
+    2. nearly
+    3. around
+    4. approximately
+*** 表示"占据"
+    1) make up
+    2) take up
+    3) account for
+    4) be composed of
+    5) constitute
+    6) comprise
+    7) have/be/reach/hit
+*** 表示"关于"
+    1. about
+    2. regarding
+    3. concerning
+    4. related to
+    5. with regard to = as to:关于, 就...而论
+** 描述流程图短语
+*** 表示"时间"
+    1) between the year 1995 and 2000
+    2) since then
+    3) from now/then on
+    4) over/during the period from 1995 to 2000
+    5) by the end of 2005
+    6) from the 1970s onwards/ from 1994 onwards
+    7) for ten years or so/ at least
+    8) in those/the given years/period(s)
+    9) aged + 岁数
+    10) aged between ... and ... = aged from ... to ...
+    11) in the following three years/period
+    12) over the course of the last century
+    13) a 100-year period
+    14) throughout the five years from 1995 to 2000
+    15) a ten-year high = a new high in the ten-year period
+    16) a new high/low
+*** 表示"比较"
+    1. 倍数 + as + 形容词(+ 名词 + 动词) as
+    2. more than + 倍数 + as + 形容词 + as...
+    3. 数字/百分数/倍数 + 比较级 + than
+    4. 数字/百分数/倍数 more + 名词+ than
+    5. 数字 + more + 名词 e.g. 1000 more dogs: 100多只狗
+    6. a is + 倍数 + as likely to do sth. as B
+    7. A is + 百分数 + up/down + on B: A比B高/低 xx%
+    8. more than + 数字/百分数 = over ... = above
+    9. less than + 数字/百分数 = under...
+    10. 表比较(compare):
+        outgrow(比...快),
+        outweight(比...重要),
+        outnumber(比...多),
+        outpace(追过),
+        overtake(赶上)
+    11. 表名次(rank):
+        first(place),second(place),third(place)...
+        number 1, number 2, number 3...
+    12. slip to + 名次: 滑到...
+    13. plummet to + 名次: 快速落到...
+    14. lead + 名词(+ in the race of) = be ahead of + 名词: 领先于...
+    15. be at ahead
+    16. followed by + 名词(当状语):后面紧接的是...
+    17. following + 名词(当状语) = behind + 名词: 落后于
+    18. follow behind(+in/sb):落后
+    19. rank first(etc.)(on the list)/top five
+    20. a fourth lowest on record
+    21. come + 名次 = come in at + 名次
+    22. next comes + 名词:接着是...
+    23. A beat B into + 名次: A打败了B,使B成为
+    24. rise two places to + 名次:提交2个名次成为
+    25. 100 in 1998 varsus 98 in 2000:做状语
+    26. in(marked) contrast to: 与...对比起来, 与...形成对比
+    27. by comparison:相比之下
+    28. in contrast:相反
+*** 表示流程图的"步骤"
+    1) to begin(with)
+    2) first of all
+    3) secondly
+    4) then/next
+    5) after that
+    6) finally/at last
+    7) in addition/furthermore
+    8) meanwhile/at the same time
+    9) in the next stage/following this
+    10) in the subsequent stage
+*** 表示流程图的"首阶段"
+    1. the process starts from(+名词 or动名词)
+    2. at the first/initial stage
+    3. at the begining of the cycle
+    4. during the initial phase
+    5. ... is the first step in ...
+*** 表示流程图"次阶段"
+    1. the second stage is
+    2. the next step in the process is
+*** 表示流程图"末阶段"
+    1. ... is the last step in the procedure
+    2. the final phase of the procedure is about
+    3. in the final phase
+    4. entering the final phase
+*** 有用的句式
+    1. ... provide/give/present an overall view of ...
+    2. To summarise/in summary/overall/as suggest above
+    3. it can be seen from ... that ...
+    4. in ... it is another picture
+    5. it is clearly evident from the ... that ...
+    6. through the information that is provided in the ... we can learn that ...
+    7. by briefly glancing at ... it is apparent that ...
+    8. the information in the ...  concludes that ...
+    9. what is noteble is that (引人注目的是)...
+    10. what mairs truly remarkable is that (引人注目的是)...
+    11. it is evident when comparing ...
+    12. ... shows the changes in the number of ... over the period from ... to ...
+    13. ... lead us to the conclusion that ...
+    14. as can be seen from the ..., great changes have taken place in ...
+    15. ... shows the changing proportion of A and B(A和B的比例关系)
+    16. the percentage of ... is slightly larger/smaller than that of ...
+    17. there  is not a great deal of difference between ... and ...
+    18. there are a lot similarities between ... and ...
+    19. A has something in common with B
+    20. The difference between A and B lies in ...
+** 描述扇形图
+   1. the percentage of
+   2. the proportion of
+   3. the portion of
+   4. the quantity of
+   5. the number of
+   6. the amount of
+   7. the majority of
+   8. the minority of
+   9. the entire of
+   10. the bulk of
+   11. a(big/small) share of + 百分数
