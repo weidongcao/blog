@@ -280,36 +280,53 @@
 
 *** 拓展思路:逻辑技巧五式
 *** 实战演练
-    *2018年12月1日 (Task 1)大陆考区*:
-#+DOWNLOADED: screenshot @ 2020-01-26 20:16:31
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-16-31_screenshot.png]]
+****   *2018年12月1日 ( Task 1)大陆考区*:
+ #+DOWNLOADED: screenshot @ 2020-01-26 20:16:31
+ [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-16-31_screenshot.png]]
 
-#+DOWNLOADED: screenshot @ 2020-01-26 20:31:22
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-31-22_screenshot.png]]
+ #+DOWNLOADED: screenshot @ 2020-01-26 20:31:22
+ [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-31-22_screenshot.png]]
+****  论述部分注意事项总结:
+ - 讲一个观点或者方面,用一个段落
+ - 每一个段落的第一名话应该都是主题句(用简单句来概括这一段的主要内容,但是这个主要内容必须要和文章的话题和文章的中心思想保持相关性,一致性,和简要性
+ - 每一段的话题内容不能够直接重复或间接重复
+ - 每一段之间需要空一行,第一话的开始不需要空 两格
+****  正面观点句:(优点,同意)
+ ... make positive contributions to .../ contribute positively to
 
-正面观点句:(优点,同意)
-... make positive contributions to .../ contribute positively to
+ ... perform an essential / vitally important / indisapensable role in ...
 
-... perform an essential / vitally important / indisapensable role in ...
+ ... bring significant influence to ...
 
-... bring significant influence to ...
+ ... b beneficiaries of ...
 
-... b beneficiaries of ...
+ ... have benefits in terms of ...
+****  *负面观点功能句型:(缺点 or 不同意*
+ - ... pose a potential threat to ...
+ - have negative impacts on ...
+ - perform a negative role in ...
+ - perform a negative role in ...
+ - be considered the main culprit of 
+ #+DOWNLOADED: screenshot @ 2020-01-26 20:35:36
+ [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-35-36_screenshot.png]]
+**** 段与段之间的关系
+ 段与段之间必须要有连接词,段与段之间的关系包括:
+ 并列关系: (meanwhile, in addition);
+ 递进关系: (what is more; moreover, furthermore
+ 转折关系: on the other hand, in contrast, however
+ 让步关系: although, despite of xxx, in spite of xxx
+ 因果关系: therefore, thus, as the result , consequently
 
-... have benefits in terms of ...
+ >>> 并列关系的词组:
 
+ | firstly  | initially             |
+ | secondly | an additional pointis |
+ | lastly   | last but not least    |
 
-#+DOWNLOADED: screenshot @ 2020-01-26 20:35:36
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-35-36_screenshot.png]]
-
-段与段之间必须要有连接词,段与段之间的关系包括:
-并列关系: (meanwhile, in addition);
-递进关系: (what is more; moreover, furthermore
-转折关系: on the other hand, in contrast, however
-让步关系: although, despite of xxx, in spite of xxx
-因果关系: therefore, thus, as the result , consequently
-#+DOWNLOADED: screenshot @ 2020-01-26 20:37:02
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-37-02_screenshot.png]]
+ >>> 优缺点讨论
+ 1. on the positive side
+ 2. on the downside
+   
 **** 语义连接词
  #+DOWNLOADED: screenshot @ 2020-01-26 20:37:31
  [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-37-31_screenshot.png]]
@@ -353,9 +370,7 @@
 
 >>> 详见逻辑技术五式的方法去拓展
 论述部分的句子,应采取多样化原则,句子的各类分为简单句,并列句,复杂句和并列复杂句
-
-
-段落的长度:
+**** 段落的长度:
 每一个段落性本能控制在3-5句中,还要段落过长,不要段落过于复杂
 
 y主体段拓展方法:(Less is More)
