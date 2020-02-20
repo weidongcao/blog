@@ -59,8 +59,6 @@
     *注意点*
 #+DOWNLOADED: screenshot @ 2020-01-26 17:17:55
 [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-17-55_screenshot.png]]
-
-
 #+DOWNLOADED: screenshot @ 2020-01-26 17:21:00
 [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-21-00_screenshot.png]]
 **** 解决-头脑风暴 - Stakeholder
@@ -89,11 +87,13 @@
 #+DOWNLOADED: screenshot @ 2020-01-26 17:46:21
 [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_17-46-21_screenshot.png]]
 *** 写作思路从哪儿来
+**** 利益相关者
 **** 3C角度
 ***** *成本cost*
-      - 沟通成本,
-      - 交通成本,
-      - 学费,
+      - 沟通成本
+      - 生活成本
+      - 交通成本
+      - 学费
      
 ***** *文化culture*
       - 企业文化,
@@ -144,58 +144,114 @@
      
      感受,
 
+     兴趣,
+
      *experience*
      经历,
      
      经验,
 ***** 例子有些人喜欢餐厅用餐,有些人喜欢在家里做饭,你倾向于哪种
-#+DOWNLOADED: screenshot @ 2020-01-26 18:15:02
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-15-02_screenshot.png]]
+| 5E          | 餐厅用餐            | 家里吃           |
+|-------------+---------------------+------------------|
+| environment | 适合某些特定场合    | 更私密           |
+| Efficiency  | 餐厅点菜吃饭更快    | 买菜做菜耗时     |
+| Emotion     | 情感关系不大,不用   | 一起下厨培养感情 |
+| Economy     | 去餐厅吃饭贵        | 家里发包性价比高 |
+| Experience  | 与经验关系不大,不用 | 培养烹饪经验           |
 **** 真题训练
      *真题题目*:
-#+DOWNLOADED: screenshot @ 2020-01-26 18:17:22
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-17-22_screenshot.png]]
+     Some people think that students should focus on a few subjects while other think they sould study a wide range of subjects.
+     discuss both these views and give your own opinion.
+***** Alalysis
+      *Capability & Efficiency*
+      - core subjects help students to develop important skills
+      - Focusing on these subjects them to gain knowledge qukckly
 
-#+DOWNLOADED: screenshot @ 2020-01-26 18:26:55
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-26-55_screenshot.png]]
+      *Experience & cost&
+      students who hvae a good understanding of a wide range of subjects can find jobs more easily after graduation
+***** General Structure
+      Top Sentence (one sentence only, standing for an argument)
 
+      Supporting ideas(one sentence only, highlighting the key point of the paragraph,serving to support the argument)
 
-#+DOWNLOADED: screenshot @ 2020-01-26 18:28:32
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-28-32_screenshot.png]]
-
-
+      Developing sentences(sentences or the extension, explanation and justification of the supporting ideas).
+***** Summarize
+      - 持什么观点
+      - 怎么支持中心句
+      - 如何解释支持名
 *** 观点与论证
     
 **** 4种逻辑论证
-     
+     1. 因果推理
+     2. 举例
+     3. 对比
+     4. 解释说明
 ***** 因果推理
-#+DOWNLOADED: screenshot @ 2020-01-26 19:01:59
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_19-01-59_screenshot.png]]
+****** 例子
+ #+DOWNLOADED: screenshot @ 2020-01-26 19:01:59
+ [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_19-01-59_screenshot.png]]
+****** 句型表达
+       使用评论时所需的因果关系表达
 
-#+DOWNLOADED: screenshot @ 2020-01-26 19:44:29
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_19-44-29_screenshot.png]]
+       *因果关系词:*
+       1. 表示原因:because / as / since / due to / owing to ...
+       2. 表示结果: hence(因此), Thus(因此), Therefore(因此), As a consequence...(作为结果),
+          Accordingly ...(相应的), As a result, Consequently, So ... that ...
 
+       *因果关系句型*:
+       1. The phenomenon mainly stems from the fact that ...
+       2. 原因 + accounts mainly for / are accountable for + 结果
+       3. 原因 + Be responsible for + 结果
+       4. 原因 + Contributes partly to + 结果
 
 ***** 举例
       *正确的举例方式:由抽象到具象*:
-#+DOWNLOADED: screenshot @ 2020-01-26 18:33:31
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-33-31_screenshot.png]]
+      We need to improve the public transport services available to travelers
 
-      *举例展开*:
-#+DOWNLOADED: screenshot @ 2020-01-26 18:34:52
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-34-52_screenshot.png]]
+      Supporting Sentences:
+      For example ,if better underground train systems where build and maintained in our major cities then traffic on
+      the roads would be reduced
 
-#+DOWNLOADED: screenshot @ 2020-01-26 18:35:04
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-35-04_screenshot.png]]
+      *举例展开 常用关联词*:
+      as a proof
+      as an illustration
+      as an example
+      for example
+      for instance
+      in particular
+      just as
+      manely
+      specifically
+      to illustrate
+      to demonstrate
+
+      *句型*
+
+      A good case in point is that ...;
+
+      A typical example can be found in ...;
+
+      Take ... for example, ...; ... , which may include ... ect
+
       *举例注意事项*:
-#+DOWNLOADED: screenshot @ 2020-01-26 18:36:40
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_18-36-40_screenshot.png]]
+      - 应避免使用第一人称和第二人称,为了加强客观性,应将人称写为第三人称
+        eg:those people who raise pets, such as dogs and cats are more likely to gain happiness and relieve their loneliness
+      - 应避免引用一项调查研究,并同时伴有过多数据,应将数据去掉,用含糊的方式表示
+        Eg:There is much evidence to show that the number of people smoking has increased at an alarming rate in China(大量证据表明)
+      - 应避免将例子局限在一个国家,尤其是中国,应将范文放至全世界
+        Eg:Many children around the world like to sit in front of the screen for a long time, leading to their poor eyesight.
 
+      *全世界的表达方式*:
+      arould the world
+
+      all over the world
+
+      across the globe
 
 ***** 对比
-#+DOWNLOADED: screenshot @ 2020-01-26 19:49:15
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_19-49-15_screenshot.png]]
+      Yong people who pass directly from school to university have limited experience of the world
 
+      *By Contrast* those who have spent some time traveling to other places have a broader view of life.
 
 ***** 解释说明
       可以将之前某一个不够清晰的想法加以阐述,说明及解释
@@ -205,7 +261,9 @@
 
        用于解释的引导方式主要有:
 
-       in other words, that is to say,
+       in other words,
+
+       that is to say,
 
        ... which means that ...
 
@@ -229,13 +287,27 @@
 #+DOWNLOADED: screenshot @ 2020-01-26 20:31:22
 [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-31-22_screenshot.png]]
 
-#+DOWNLOADED: screenshot @ 2020-01-26 20:30:55
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-30-55_screenshot.png]]
+正面观点句:(优点,同意)
+... make positive contributions to .../ contribute positively to
+
+... perform an essential / vitally important / indisapensable role in ...
+
+... bring significant influence to ...
+
+... b beneficiaries of ...
+
+... have benefits in terms of ...
 
 
 #+DOWNLOADED: screenshot @ 2020-01-26 20:35:36
 [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-35-36_screenshot.png]]
 
+段与段之间必须要有连接词,段与段之间的关系包括:
+并列关系: (meanwhile, in addition);
+递进关系: (what is more; moreover, furthermore
+转折关系: on the other hand, in contrast, however
+让步关系: although, despite of xxx, in spite of xxx
+因果关系: therefore, thus, as the result , consequently
 #+DOWNLOADED: screenshot @ 2020-01-26 20:37:02
 [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-37-02_screenshot.png]]
 **** 语义连接词
@@ -245,22 +317,55 @@
 #+DOWNLOADED: screenshot @ 2020-01-26 20:38:03
 [[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-38-03_screenshot.png]]
 **** 8种逻辑连接衔接方法
-#+DOWNLOADED: screenshot @ 2020-01-26 20:39:28
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-39-28_screenshot.png]]
+     1. 连接词
+     2. 状语从句
+     3. 一些名词性从句
+     4. 一些含有this, These
+     5. 代词they, this, their等
+     6. 含有another的表达
+     7. 上下文两个句子本身的逻辑关系
+     8. 一些关键表达的重复
 **** 状语从句
 **** 一些名词性从句
+     1. 一些含有this, These的词组
+        By doing this, in this way, in this case, in this circumstance,
+        for this reason等
+        比如说:With these skills,they can handle many matters easily
+     2. 供词they, this, their等
+        They have to develop some life skills ...
+        They hardly have a meal with their parents and can not keep up  to date with the news about their family
+     3. Another的表达a
+        可以经常用Another problem , another method, another adventage
+        Another benefit is that college students can enjoy more freedom in social file and make new friends
+     4. 上下文两个句子间本身的逻辑关系
+     5. 一些关键表达的重复
+        段落某些表达的重复,也可以帮助衔接句子,当然,这需要大家有比较强的改写能力,否则会显得啰嗦
 
-#+DOWNLOADED: screenshot @ 2020-01-26 20:41:20
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-41-20_screenshot.png]]
+一个段落分为两个部分:
+ - 第一部分:主体部分(主题句)
+ - 第二部分:支持部分(支持名)
 
-#+DOWNLOADED: screenshot @ 2020-01-26 20:42:33
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-42-33_screenshot.png]]
+支持部分的作用:
+1. 解释为什么你会这么想(主题句的内容
+2. 扩展主题句的内容,来达到让读者更容易明白你扎根讲的内容
+3. 去支持你论述的主题内容
 
 
-#+DOWNLOADED: screenshot @ 2020-01-26 20:43:12
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-43-12_screenshot.png]]
+>>> 详见逻辑技术五式的方法去拓展
+论述部分的句子,应采取多样化原则,句子的各类分为简单句,并列句,复杂句和并列复杂句
 
-#+DOWNLOADED: screenshot @ 2020-01-26 20:44:11
-[[file:broadcastIELTSWrittingTask2议论文的审题与题型结构/2020-01-26_20-44-11_screenshot.png]]
+
+段落的长度:
+每一个段落性本能控制在3-5句中,还要段落过长,不要段落过于复杂
+
+y主体段拓展方法:(Less is More)
+
+找准观点句(TS): 具体的总结归纳,可以进行拓展
+
+思维导图:梳理位置,递进,拒绝跳跃
+
+连词成句(8种逻辑连接,注意多样性)
+
+与TS呼应,必要时可以同义复述
 
 
